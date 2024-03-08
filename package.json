@@ -1,0 +1,22 @@
+{
+  "name": "xxnhodenlon-chuantrang",
+  "version": "1.0.2",
+  "description": "chuantrang",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chuantrang/xxnhodenlon-chuantrang.git"
+  },
+  "keywords": [
+    "cacl"
+  ],
+  "author": "chuantrang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chuantrang/xxnhodenlon-chuantrang/issues"
+  },
+  "homepage": "https://github.com/chuantrang/xxnhodenlon-chuantrang#readme"
+}
