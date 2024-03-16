@@ -1,6 +1,6 @@
 {
   "name": "xxnhodenlon-chuantrang",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "chuantrang",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,7 @@
     "cacl"
   ],
   "author": "chuantrang",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/chuantrang/xxnhodenlon-chuantrang/issues"
   },
